@@ -5,28 +5,23 @@
       "channels": [
         {
           "name": "ANTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
         },
         {
           "name": "Bali TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd"
         },
         {
           "name": "GTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
         },
         {
           "name": "Indosiar",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd"
         },
         {
           "name": "Jak TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
         },
         {
           "name": "Jogja TV",
@@ -34,13 +29,11 @@
         },
         {
           "name": "JTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd"
         },
         {
           "name": "MNC TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
         },
         {
           "name": "NET. TV",
@@ -48,18 +41,15 @@
         },
         {
           "name": "RCTI",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd"
         },
         {
           "name": "RTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
         },
         {
           "name": "SCTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd"
         },
         {
           "name": "TATV",
@@ -71,8 +61,7 @@
         },
         {
           "name": "Trans 7 [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd"
         },
         {
           "name": "Trans TV",
@@ -80,8 +69,7 @@
         },
         {
           "name": "Trans TV [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd"
         }
       ]
     },
@@ -90,8 +78,7 @@
       "channels": [
         {
           "name": "ABC Australia",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd"
         },
         {
           "name": "Al Jazeera",
@@ -99,8 +86,7 @@
         },
         {
           "name": "Al Jazeera [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
         },
         {
           "name": "Arirang",
@@ -108,8 +94,7 @@
         },
         {
           "name": "Arirang [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
         },
         {
           "name": "Astro Awani",
@@ -121,8 +106,7 @@
         },
         {
           "name": "BBC World News [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
         },
         {
           "name": "BeritaSatu",
@@ -130,8 +114,7 @@
         },
         {
           "name": "Bloomberg",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
         },
         {
           "name": "Channel News Asia",
@@ -139,8 +122,7 @@
         },
         {
           "name": "Chnannel News Asia [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
         },
         {
           "name": "CNBC Indonesia",
@@ -152,43 +134,35 @@
         },
         {
           "name": "CNN International",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
         },
         {
           "name": "DW",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
         },
         {
           "name": "FOX News",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
         },
         {
           "name": "IDX Channel",
-          "stream_url": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
         },
         {
           "name": "iNews",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd"
         },
         {
           "name": "Kompas TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
         },
         {
           "name": "Metro TV",
-          "stream_url": "https://akamai.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd",
-		  "drm_name": "mncnow"
+          "stream_url": "https://akamai.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd"
         },
         {
           "name": "MNC News",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd"
         },
         {
           "name": "NHK World",
@@ -196,13 +170,11 @@
         },
         {
           "name": "NHK World Japan",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
         },
         {
           "name": "NHK World Premium",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
         },
         {
           "name": "RRI Net",
@@ -210,8 +182,7 @@
         },
         {
           "name": "TV One",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
         },
         {
           "name": "TVRI",
@@ -268,13 +239,11 @@
         },
         {
           "name": "Celestial Classic",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
         },
         {
           "name": "Celestial Movie",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
         },
         {
           "name": "Celestial Movie [ALT]",
@@ -286,8 +255,7 @@
         },
         {
           "name": "Cinema World",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
         },
         {
           "name": "Cinema World [ALT]",
@@ -295,8 +263,7 @@
         },
         {
           "name": "Cinemax",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
         },
         {
           "name": "Flik",
@@ -304,18 +271,15 @@
         },
         {
           "name": "Fox Action Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd"
         },
         {
           "name": "Fox Family Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd"
         },
         {
           "name": "Fox Movies Premium",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd"
         },
         {
           "name": "Galaxy",
@@ -331,28 +295,23 @@
         },
         {
           "name": "HBO Family",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
         },
         {
           "name": "HBO Hits",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
         },
         {
           "name": "HBO Signature",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
         },
         {
           "name": "Hits",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
         },
         {
           "name": "Hits Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
         },
         {
           "name": "IMC",
@@ -388,13 +347,11 @@
         },
         {
           "name": "Thrill [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
         },
         {
           "name": "tvN Movies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
         },
         {
           "name": "Zee Bioskop",
@@ -402,8 +359,7 @@
         },
         {
           "name": "Zee Bioskop [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
         }
       ]
     },
@@ -420,8 +376,7 @@
         },
         {
           "name": "AXN",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
         },
         {
           "name": "AXN [ALT]",
@@ -461,18 +416,15 @@
         },
         {
           "name": "FMN",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
         },
         {
           "name": "Fox Channel",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd"
         },
         {
           "name": "Fox Crime",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd"
         },
         {
           "name": "GEM [ID]",
@@ -480,8 +432,7 @@
         },
         {
           "name": "Jiangsu TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
         },
         {
           "name": "KIX",
@@ -489,18 +440,15 @@
         },
         {
           "name": "KIX [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
         },
         {
           "name": "Life&Style",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
         },
         {
           "name": "LifeTime",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
         },
         {
           "name": "Lively Place",
@@ -508,8 +456,7 @@
         },
         {
           "name": "MNCInfotainment",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
         },
         {
           "name": "Mola TV",
@@ -525,8 +472,7 @@
         },
         {
           "name": "OK TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
         },
         {
           "name": "ONE [ID]",
@@ -558,8 +504,7 @@
         },
         {
           "name": "Sony One",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
         },
         {
           "name": "Sony One [ALT]",
@@ -567,18 +512,15 @@
         },
         {
           "name": "Star Chinese Legend",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
         },
         {
           "name": "Star Chinese Movie",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd"
         },
         {
           "name": "STAR World",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd"
         },
         {
           "name": "The Indonesia Channel",
@@ -590,13 +532,11 @@
         },
         {
           "name": "tvN",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
         },
         {
           "name": "Vision Prime",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
         },
         {
           "name": "WakuWaku Japan",
@@ -604,8 +544,7 @@
         },
         {
           "name": "Warner TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
         }
       ]
     },
@@ -614,8 +553,7 @@
       "channels": [
         {
           "name": "Channel V",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd"
         },
         {
           "name": "Citra Dangdut",
@@ -639,13 +577,11 @@
         },
         {
           "name": "Music Channel",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
         },
         {
           "name": "Music TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
         },
         {
           "name": "OneMusic",
@@ -670,8 +606,7 @@
       "channels": [
         {
           "name": "Animax",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
         },
         {
           "name": "Animax Asia",
@@ -695,18 +630,15 @@
         },
         {
           "name": "Boomerang",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
         },
         {
           "name": "Cartoon Network",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
         },
         {
           "name": "CBeebies",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
         },
         {
           "name": "CONtv Anime",
@@ -718,13 +650,11 @@
         },
         {
           "name": "Disney Channel",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd"
         },
         {
           "name": "Disney Junior [HD]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd"
         },
         {
           "name": "DreamWorks",
@@ -752,8 +682,7 @@
         },
         {
           "name": "Kids TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
         },
         {
           "name": "Kinder TV",
@@ -761,8 +690,7 @@
         },
         {
           "name": "Miao Mi",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
         },
         {
           "name": "My Kids",
@@ -770,8 +698,7 @@
         },
         {
           "name": "Nick Jr.",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd"
         },
         {
           "name": "Nick Jr. (Pluto TV)",
@@ -779,8 +706,7 @@
         },
         {
           "name": "Nickelodeon",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
         },
         {
           "name": "Nicktoon",
@@ -825,8 +751,7 @@
       "channels": [
         {
           "name": "Animal Planet",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
         },
         {
           "name": "Animals Live",
@@ -834,18 +759,15 @@
         },
         {
           "name": "Asian Food Network",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd"
         },
         {
           "name": "BBC Earth [HD]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
         },
         {
           "name": "Crime Investigation",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
         },
         {
           "name": "Discovery Asia",
@@ -853,8 +775,7 @@
         },
 	{
           "name": "Discovery Channel [ALT]",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
-          "drm_name": "mncnow"  
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd"
         },
         {
           "name": "Discovery Channel",
@@ -862,13 +783,11 @@
         },
         {
           "name": "HGTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
         },
         {
           "name": "History",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
         },
         {
           "name": "History",
@@ -892,8 +811,7 @@
         },
         {
           "name": "Nat Geo People",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd"
         },
         {
           "name": "Nat Geo People [ALT]",
@@ -901,8 +819,7 @@
         },
         {
           "name": "Nat Geo Wild",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
         },
         {
           "name": "Nat Geo Wild [ALT]",
@@ -914,8 +831,7 @@
         },
         {
           "name": "National Geographic",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
         },
         {
           "name": "National Geographic [ALT]",
@@ -927,8 +843,7 @@
         },
         {
           "name": "TLC",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
         }
       ]
     },
@@ -941,13 +856,11 @@
         },
         {
           "name": "Al Quran Al Kareem",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
         },
         {
           "name": "DAAI TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
         },
         {
           "name": "Elshinta TV",
@@ -955,13 +868,11 @@
         },
         {
           "name": "EWTN",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd"
         },
         {
           "name": "Life",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd"
         },
         {
           "name": "Madinah TV",
@@ -973,8 +884,7 @@
         },
         {
           "name": "Muslim TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
         },
         {
           "name": "Reformed 21",
@@ -986,8 +896,7 @@
         },
         {
           "name": "Tawaf TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
         },
         {
           "name": "TV Ikim",
@@ -995,8 +904,7 @@
         },
         {
           "name": "TV Muhammadiyah",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd",
-          "drm_name": "mncnow"
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
         }
       ]
     },
