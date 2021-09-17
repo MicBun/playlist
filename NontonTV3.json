@@ -638,8 +638,8 @@
         },
         {
           "name": "UseePrime",
-          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd"
-		  "drm_name": "telkomsel"
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd",
+	  "drm_name": "telkomsel"
         },
         {
           "name": "Maleo",
